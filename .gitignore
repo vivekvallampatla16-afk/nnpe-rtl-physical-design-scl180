@@ -1,0 +1,42 @@
+# EDA databases and generated implementation files
+*.db
+*.lib
+*.lef
+*.gds
+*.gdsii
+*.oas
+*.oasis
+*.def
+*.spef
+*.sdf
+*.vcd
+*.fsdb
+*.saif
+*.ndm
+*.mw
+*.tf
+*.itf
+*.tluplus
+*.sdc
+*.svf
+
+# Logs and reports that may expose paths/license info
+*.log
+*.cmd
+*.jou
+*.history
+*.tmp
+
+# Tool work directories
+work/
+WORK/
+icc2_output/
+synopsys_cache/
+milkyway/
+alib-52/
+INCA_libs/
+
+# OS/editor files
+.DS_Store
+Thumbs.db
+*.swp
